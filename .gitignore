@@ -18,4 +18,4 @@ temp/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
-.history
+.historyconfig.ini
